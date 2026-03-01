@@ -84,13 +84,52 @@ pip install pandas numpy matplotlib seaborn
 ```
 
 ## Results & Conclusions
-[Add your key findings and recommendations here based on your analysis]
+## 📊 Results & Conclusions
+
+### Revenue Trends
+- Olist experienced strong revenue growth throughout 2017, peaking in **November 2017** — 
+  clearly driven by Black Friday/Cyber Monday sales.
+- Revenue stabilized in early 2018 but showed consistent month-over-month growth, 
+  indicating a maturing and expanding customer base.
+
+### Top Performing Product Categories
+- **Health & Beauty**, **Watches & Gifts**, and **Bed/Bath/Table** were the top 3 
+  revenue-generating categories, collectively accounting for a significant share of total sales.
+- These categories should be prioritized for marketing spend, promotional campaigns, 
+  and inventory stocking.
+
+### Customer Satisfaction by Region
+- The national average review score was approximately **4.0 / 5.0**.
+- States in the **South and Southeast** (SP, RJ, MG) generated the most orders but had 
+  slightly lower satisfaction scores — likely due to higher volume causing delivery strain.
+- Smaller northern states showed **higher satisfaction scores**, possibly due to lower 
+  volume and more manageable logistics.
+
+### Key Business Recommendations
+1. **Invest in logistics for SP and RJ** — these states drive the most revenue but show 
+   signs of delivery-related dissatisfaction.
+2. **Double down on Health & Beauty** — highest revenue category with strong repeat 
+   purchase potential.
+3. **Run targeted campaigns around November** — the data clearly supports a seasonal 
+   spike; planning inventory and ads ahead of Q4 would maximize revenue.
+4. **Improve delivery times in the North/Northeast** — longer delivery distances are 
+   likely hurting satisfaction scores in states like AM, RR, and AP.
+
+### Dashboard KPIs (Summary)
+| Metric | Value |
+|--------|-------|
+| Total Revenue | R$ ~13.6M |
+| Total Orders | ~96,000 |
+| Avg Review Score | ~4.07 / 5 |
+| Top Category | Health & Beauty |
+| Highest Order Volume State | SP (São Paulo) |
+
+---
+*Analysis performed using Python (pandas, matplotlib, seaborn) and visualized in Tableau Public.*
 
 ## Author
 r0c9y
 
-## License
-[Specify your license, e.g., MIT, Apache 2.0, or None]
 
 ## Contact
 For questions or collaboration, feel free to reach out!
