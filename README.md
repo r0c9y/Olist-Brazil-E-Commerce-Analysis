@@ -15,6 +15,9 @@ This project analyzes over 100,000 transactions from the Olist Brazil E-Commerce
 - **Data Cleaning**: Pandas, custom Python scripts
 - **EDA**: Exploratory Data Analysis with statistical insights
 
+
+## DATASET - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Analysis Components
 
 ### 1. Data Cleaning & Preparation
